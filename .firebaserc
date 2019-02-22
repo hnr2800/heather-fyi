@@ -1,5 +1,6 @@
 {
   "projects": {
-    "main": "heather-fyi"
+    "main": "heather-fyi",
+    "default": "heather-fyi"
   }
 }

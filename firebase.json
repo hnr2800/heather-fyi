@@ -1,6 +1,6 @@
 {
   "hosting": {
-    "public": "/heather-fyi",
+    "public": "./heather-fyi",
     "ignore": [
       "firebase.json",
       "**/.*",
