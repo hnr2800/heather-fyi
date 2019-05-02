@@ -1,0 +1,1436 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gexf xmlns="http://www.gexf.net/1.3" version="1.3" xmlns:viz="http://www.gexf.net/1.3/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.3 http://www.gexf.net/1.3/gexf.xsd">
+  <meta lastmodifieddate="2019-05-02">
+    <creator>Gephi 0.9</creator>
+    <description></description>
+  </meta>
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="19june" label="19june">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="307.79184" y="145.19989"></viz:position>
+      </node>
+      <node id="yemen" label="yemen">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="53.96476" y="162.87221"></viz:position>
+      </node>
+      <node id="20jun" label="20jun">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-650.2205" y="-97.34056"></viz:position>
+      </node>
+      <node id="23jun" label="23jun">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="934.4166" y="-100.350426"></viz:position>
+      </node>
+      <node id="saudi" label="saudi">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-5.0258265" y="55.49698"></viz:position>
+      </node>
+      <node id="2ojun" label="2ojun">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-310.82562" y="653.4869"></viz:position>
+      </node>
+      <node id="7sabah" label="7sabah">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-986.0232" y="25.71383"></viz:position>
+      </node>
+      <node id="iran" label="iran">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-331.4616" y="-29.71155"></viz:position>
+      </node>
+      <node id="aggression" label="aggression">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="463.68515" y="501.66714"></viz:position>
+      </node>
+      <node id="aggressive" label="aggressive">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="32.928165" y="-942.9247"></viz:position>
+      </node>
+      <node id="ai_strikes" label="ai_strikes">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-975.1201" y="-541.68414"></viz:position>
+      </node>
+      <node id="algreen" label="algreen">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-326.97272" y="-685.2718"></viz:position>
+      </node>
+      <node id="trump" label="trump">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-144.37852" y="-109.27629"></viz:position>
+      </node>
+      <node id="anti" label="anti">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="341.36548" y="-205.14107"></viz:position>
+      </node>
+      <node id="freepalestine" label="freepalestine">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-11.668023" y="-54.86051"></viz:position>
+      </node>
+      <node id="israel" label="israel">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-51.22786" y="-250.774"></viz:position>
+      </node>
+      <node id="antiisrael" label="antiisrael">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-90.0092" y="277.00034"></viz:position>
+      </node>
+      <node id="arab_world" label="arab_world">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-619.35876" y="924.5161"></viz:position>
+      </node>
+      <node id="art" label="art">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-180.45494" y="-323.01605"></viz:position>
+      </node>
+      <node id="artillery" label="artillery">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-223.33327" y="344.22165"></viz:position>
+      </node>
+      <node id="assistance" label="assistance">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-82.67985" y="728.94354"></viz:position>
+      </node>
+      <node id="us" label="us">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="51.76713" y="-129.2104"></viz:position>
+      </node>
+      <node id="atomic_energi" label="atomic_energi">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-698.6811" y="-272.3539"></viz:position>
+      </node>
+      <node id="bahrain" label="bahrain">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-19.214981" y="594.4378"></viz:position>
+      </node>
+      <node id="bbcnews" label="bbcnews">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="471.00626" y="-478.035"></viz:position>
+      </node>
+      <node id="bds" label="bds">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-205.16878" y="960.4861"></viz:position>
+      </node>
+      <node id="biological" label="biological">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-622.5773" y="186.37917"></viz:position>
+      </node>
+      <node id="blame" label="blame">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="177.141" y="384.36115"></viz:position>
+      </node>
+      <node id="bombardment" label="bombardment">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="936.2121" y="217.63907"></viz:position>
+      </node>
+      <node id="breaking" label="breaking">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="186.73418" y="-559.66797"></viz:position>
+      </node>
+      <node id="britain" label="britain">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="537.5489" y="-972.96185"></viz:position>
+      </node>
+      <node id="canada" label="canada">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-765.18384" y="813.7424"></viz:position>
+      </node>
+      <node id="chemical_weapones" label="chemical_weapones">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="47.167484" y="312.64465"></viz:position>
+      </node>
+      <node id="chidren" label="chidren">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="591.7149" y="-311.87656"></viz:position>
+      </node>
+      <node id="childrensrights" label="childrensrights">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="57.652943" y="793.83466"></viz:position>
+      </node>
+      <node id="chpkurultayı" label="chpkurultayı">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="762.345" y="-62.601753"></viz:position>
+      </node>
+      <node id="cnn" label="cnn">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-47.047855" y="-405.8238"></viz:position>
+      </node>
+      <node id="comitte" label="comitte">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="313.8913" y="-471.2375"></viz:position>
+      </node>
+      <node id="communities" label="communities">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="680.40814" y="-865.3183"></viz:position>
+      </node>
+      <node id="condemned" label="condemned">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="963.8274" y="-563.49854"></viz:position>
+      </node>
+      <node id="congeres" label="congeres">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="86.99266" y="-1103.3374"></viz:position>
+      </node>
+      <node id="copa2018" label="copa2018">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="424.06424" y="51.854385"></viz:position>
+      </node>
+      <node id="crimes" label="crimes">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="252.68832" y="695.7806"></viz:position>
+      </node>
+      <node id="defence_minister" label="defence_minister">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="840.55365" y="505.9629"></viz:position>
+      </node>
+      <node id="deleteisrael" label="deleteisrael">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="301.17325" y="473.61987"></viz:position>
+      </node>
+      <node id="demonstration" label="demonstration">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="770.07446" y="-511.17218"></viz:position>
+      </node>
+      <node id="denouncing" label="denouncing">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="172.80368" y="43.756058"></viz:position>
+      </node>
+      <node id="deterrence" label="deterrence">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-391.98798" y="-894.2003"></viz:position>
+      </node>
+      <node id="deterrent" label="deterrent">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-799.4789" y="521.2719"></viz:position>
+      </node>
+      <node id="diplomacy" label="diplomacy">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-91.73684" y="869.108"></viz:position>
+      </node>
+      <node id="distroid" label="distroid">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-1015.8672" y="-383.7886"></viz:position>
+      </node>
+      <node id="dixine" label="dixine">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="263.00888" y="-830.36993"></viz:position>
+      </node>
+      <node id="donald_trump" label="donald_trump">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-790.228" y="-174.50247"></viz:position>
+      </node>
+      <node id="dozens" label="dozens">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-725.03644" y="50.65886"></viz:position>
+      </node>
+      <node id="doğa" label="doğa">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="451.85382" y="342.44455"></viz:position>
+      </node>
+      <node id="dremstuff" label="dremstuff">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="513.66547" y="981.05786"></viz:position>
+      </node>
+      <node id="dremtgi" label="dremtgi">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="137.7223" y="-419.00427"></viz:position>
+      </node>
+      <node id="economic" label="economic">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="632.82434" y="892.9566"></viz:position>
+      </node>
+      <node id="embassy" label="embassy">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="84.34861" y="-678.95184"></viz:position>
+      </node>
+      <node id="engvtun" label="engvtun">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="919.6422" y="376.8836"></viz:position>
+      </node>
+      <node id="entries" label="entries">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="203.76187" y="1086.6224"></viz:position>
+      </node>
+      <node id="evidences" label="evidences">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="808.6647" y="-772.8977"></viz:position>
+      </node>
+      <node id="extremism" label="extremism">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="1036.1624" y="-404.24014"></viz:position>
+      </node>
+      <node id="fabrications" label="fabrications">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="109.2274" y="674.2391"></viz:position>
+      </node>
+      <node id="fake" label="fake">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-274.72864" y="-1020.0523"></viz:position>
+      </node>
+      <node id="fakepresident" label="fakepresident">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-240.45958" y="792.38385"></viz:position>
+      </node>
+      <node id="famine" label="famine">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="26.188871" y="458.36304"></viz:position>
+      </node>
+      <node id="fashion" label="fashion">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-682.7528" y="621.8586"></viz:position>
+      </node>
+      <node id="fatf" label="fatf">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="432.06363" y="-342.0158"></viz:position>
+      </node>
+      <node id="fathersday" label="fathersday">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-303.71915" y="1069.7656"></viz:position>
+      </node>
+      <node id="forein_affaire" label="forein_affaire">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-155.57803" y="-515.4437"></viz:position>
+      </node>
+      <node id="forein_minister" label="forein_minister">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="486.8607" y="795.8231"></viz:position>
+      </node>
+      <node id="france" label="france">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-289.67505" y="-557.4112"></viz:position>
+      </node>
+      <node id="free" label="free">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-121.51059" y="-911.4443"></viz:position>
+      </node>
+      <node id="gaza" label="gaza">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-345.91354" y="901.47675"></viz:position>
+      </node>
+      <node id="jerusalem" label="jerusalem">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-428.01932" y="-752.7829"></viz:position>
+      </node>
+      <node id="msnbc" label="msnbc">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="387.5197" y="-889.95233"></viz:position>
+      </node>
+      <node id="nbc" label="nbc">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="618.73157" y="-565.33624"></viz:position>
+      </node>
+      <node id="news" label="news">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-74.28143" y="-635.747"></viz:position>
+      </node>
+      <node id="palestine" label="palestine">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-328.90463" y="253.09964"></viz:position>
+      </node>
+      <node id="qudsday" label="qudsday">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-835.4643" y="-42.742844"></viz:position>
+      </node>
+      <node id="savechildren" label="savechildren">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="1053.2976" y="344.3229"></viz:position>
+      </node>
+      <node id="westbank" label="westbank">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="190.7122" y="217.84435"></viz:position>
+      </node>
+      <node id="zionism" label="zionism">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-409.8735" y="372.6172"></viz:position>
+      </node>
+      <node id="freeraif" label="freeraif">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="27.87057" y="-528.6269"></viz:position>
+      </node>
+      <node id="funding" label="funding">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-190.00032" y="-725.6602"></viz:position>
+      </node>
+      <node id="genev" label="genev">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="371.84747" y="-605.7138"></viz:position>
+      </node>
+      <node id="goverment" label="goverment">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="521.4345" y="-653.50543"></viz:position>
+      </node>
+      <node id="gustice" label="gustice">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-944.12335" y="588.39514"></viz:position>
+      </node>
+      <node id="hajj" label="hajj">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="971.76483" y="55.02765"></viz:position>
+      </node>
+      <node id="hajjstampede" label="hajjstampede">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="198.57071" y="-957.8681"></viz:position>
+      </node>
+      <node id="hazard" label="hazard">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="636.7385" y="750.80286"></viz:position>
+      </node>
+      <node id="hudaydah" label="hudaydah">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-584.4927" y="37.896694"></viz:position>
+      </node>
+      <node id="humiliate" label="humiliate">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="823.1346" y="-202.18102"></viz:position>
+      </node>
+      <node id="humiliated" label="humiliated">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-542.6125" y="-952.9806"></viz:position>
+      </node>
+      <node id="hussi" label="hussi">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="629.62744" y="253.77396"></viz:position>
+      </node>
+      <node id="impachment" label="impachment">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="98.161255" y="929.5252"></viz:position>
+      </node>
+      <node id="india" label="india">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-1068.7974" y="-108.50854"></viz:position>
+      </node>
+      <node id="internationaldayofyoga2018" label="internationaldayofyoga2018">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="765.0601" y="-332.36404"></viz:position>
+      </node>
+      <node id="interpellation" label="interpellation">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-962.4296" y="187.5787"></viz:position>
+      </node>
+      <node id="intervene" label="intervene">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-941.3379" y="-165.448"></viz:position>
+      </node>
+      <node id="irandeal" label="irandeal">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-419.2953" y="-1038.9631"></viz:position>
+      </node>
+      <node id="irantalks" label="irantalks">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="444.8242" y="203.50247"></viz:position>
+      </node>
+      <node id="kültür" label="kültür">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-572.74274" y="342.42126"></viz:position>
+      </node>
+      <node id="mustseeiran" label="mustseeiran">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-646.94525" y="764.29376"></viz:position>
+      </node>
+      <node id="nature" label="nature">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="273.56747" y="-41.8033"></viz:position>
+      </node>
+      <node id="nuclear" label="nuclear">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="429.6281" y="-79.52435"></viz:position>
+      </node>
+      <node id="revolution" label="revolution">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-1127.8378" y="25.866953"></viz:position>
+      </node>
+      <node id="russia" label="russia">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-842.3905" y="687.5079"></viz:position>
+      </node>
+      <node id="iranspain" label="iranspain">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-527.9242" y="679.4744"></viz:position>
+      </node>
+      <node id="isisvalverde" label="isisvalverde">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-747.5412" y="245.23524"></viz:position>
+      </node>
+      <node id="islamabad" label="islamabad">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="795.3157" y="218.41595"></viz:position>
+      </node>
+      <node id="israil" label="israil">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-531.86365" y="-646.10535"></viz:position>
+      </node>
+      <node id="land" label="land">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-252.74388" y="-864.5473"></viz:position>
+      </node>
+      <node id="loss" label="loss">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-308.03702" y="124.32663"></viz:position>
+      </node>
+      <node id="nakba" label="nakba">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-403.34763" y="529.92444"></viz:position>
+      </node>
+      <node id="nakba69" label="nakba69">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-197.46616" y="17.034111"></viz:position>
+      </node>
+      <node id="palestinian" label="palestinian">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-392.04053" y="-231.42223"></viz:position>
+      </node>
+      <node id="zionist" label="zionist">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="888.4727" y="-431.2634"></viz:position>
+      </node>
+      <node id="israelicrimes" label="israelicrimes">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="1085.0321" y="-97.20849"></viz:position>
+      </node>
+      <node id="love" label="love">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="486.17572" y="665.64185"></viz:position>
+      </node>
+      <node id="loveisland" label="loveisland">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-588.4294" y="-503.1305"></viz:position>
+      </node>
+      <node id="macerata" label="macerata">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-149.87877" y="158.70688"></viz:position>
+      </node>
+      <node id="maj_gen_igor_kirillov" label="maj_gen_igor_kirillov">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-289.35062" y="-406.0115"></viz:position>
+      </node>
+      <node id="mbs" label="mbs">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-869.46136" y="-655.92017"></viz:position>
+      </node>
+      <node id="mediterranean" label="mediterranean">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-842.8375" y="126.447464"></viz:position>
+      </node>
+      <node id="mehrdad_lahuti" label="mehrdad_lahuti">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-760.41077" y="378.0217"></viz:position>
+      </node>
+      <node id="mmkchasingdarling" label="mmkchasingdarling">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-29.241539" y="1004.95337"></viz:position>
+      </node>
+      <node id="mohammad_baqir_nubakht" label="mohammad_baqir_nubakht">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="357.02548" y="622.1546"></viz:position>
+      </node>
+      <node id="mohammed_bin_salman" label="mohammed_bin_salman">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="940.3993" y="-276.9131"></viz:position>
+      </node>
+      <node id="mp" label="mp">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="388.7559" y="874.4252"></viz:position>
+      </node>
+      <node id="nimrlives" label="nimrlives">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-532.27124" y="524.7633"></viz:position>
+      </node>
+      <node id="notmypresident" label="notmypresident">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="662.66064" y="-182.73561"></viz:position>
+      </node>
+      <node id="notooccupation" label="notooccupation">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-648.60486" y="463.3166"></viz:position>
+      </node>
+      <node id="notrump" label="notrump">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="505.28156" y="-196.46213"></viz:position>
+      </node>
+      <node id="nowplaying" label="nowplaying">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="765.6644" y="354.29343"></viz:position>
+      </node>
+      <node id="organized" label="organized">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-1091.8925" y="191.50635"></viz:position>
+      </node>
+      <node id="otdirecto3f" label="otdirecto3f">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-434.37045" y="-520.245"></viz:position>
+      </node>
+      <node id="parliment" label="parliment">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-118.74204" y="453.8879"></viz:position>
+      </node>
+      <node id="people" label="people">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="243.56686" y="952.74445"></viz:position>
+      </node>
+      <node id="photo" label="photo">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="318.1314" y="327.97266"></viz:position>
+      </node>
+      <node id="policies" label="policies">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-1074.1711" y="-255.86479"></viz:position>
+      </node>
+      <node id="president" label="president">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="197.42337" y="-169.03162"></viz:position>
+      </node>
+      <node id="protests" label="protests">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-426.5575" y="-369.50397"></viz:position>
+      </node>
+      <node id="proves" label="proves">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="753.20667" y="638.47974"></viz:position>
+      </node>
+      <node id="quds" label="quds">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-497.75974" y="862.48175"></viz:position>
+      </node>
+      <node id="radiation" label="radiation">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="249.7915" y="-695.08966"></viz:position>
+      </node>
+      <node id="raifbadawi" label="raifbadawi">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="985.7031" y="518.0011"></viz:position>
+      </node>
+      <node id="rally" label="rally">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-45.350925" y="-785.9718"></viz:position>
+      </node>
+      <node id="regim" label="regim">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="840.084" y="56.93656"></viz:position>
+      </node>
+      <node id="ripxxxtentacion" label="ripxxxtentacion">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="893.60425" y="668.4662"></viz:position>
+      </node>
+      <node id="riyadh" label="riyadh">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-734.8807" y="-403.35095"></viz:position>
+      </node>
+      <node id="russian" label="russian">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="420.94894" y="-754.3346"></viz:position>
+      </node>
+      <node id="saada" label="saada">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="1075.2126" y="-239.18405"></viz:position>
+      </node>
+      <node id="sheikhnimr" label="sheikhnimr">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-884.7083" y="-307.11066"></viz:position>
+      </node>
+      <node id="uk" label="uk">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="250.94624" y="821.3177"></viz:position>
+      </node>
+      <node id="wahhabis" label="wahhabis">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="370.48657" y="1042.5237"></viz:position>
+      </node>
+      <node id="warplane" label="warplane">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-677.7843" y="-671.37067"></viz:position>
+      </node>
+      <node id="woman" label="woman">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-457.2475" y="1009.75977"></viz:position>
+      </node>
+      <node id="yemenunderattack" label="yemenunderattack">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-896.6193" y="324.0488"></viz:position>
+      </node>
+      <node id="ذكرى_استشهاد_النمر" label="ذكرى_استشهاد_النمر">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="604.1365" y="590.2166"></viz:position>
+      </node>
+      <node id="من_الصالحين" label="من_الصالحين">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="564.15533" y="109.29813"></viz:position>
+      </node>
+      <node id="وماقتلوه" label="وماقتلوه">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="692.8277" y="482.16214"></viz:position>
+      </node>
+      <node id="सऊद" label="सऊद">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-46.527874" y="-1063.6073"></viz:position>
+      </node>
+      <node id="saudi_arabia" label="saudi_arabia">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="1111.1694" y="46.090496"></viz:position>
+      </node>
+      <node id="saudi_crimes" label="saudi_crimes">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-480.4389" y="221.14432"></viz:position>
+      </node>
+      <node id="saveyemen" label="saveyemen">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-262.0089" y="-197.01009"></viz:position>
+      </node>
+      <node id="senior" label="senior">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="164.91118" y="541.4632"></viz:position>
+      </node>
+      <node id="shamelessly" label="shamelessly">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="266.3032" y="-332.09238"></viz:position>
+      </node>
+      <node id="shelling" label="shelling">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="776.34784" y="803.53125"></viz:position>
+      </node>
+      <node id="shia" label="shia">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-449.7319" y="65.12397"></viz:position>
+      </node>
+      <node id="spockesman" label="spockesman">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="388.6187" y="-1034.2928"></viz:position>
+      </node>
+      <node id="stop_alsaud" label="stop_alsaud">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="110.005646" y="-825.4586"></viz:position>
+      </node>
+      <node id="submit" label="submit">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-269.65747" y="483.07742"></viz:position>
+      </node>
+      <node id="summer" label="summer">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="843.6085" y="-634.1094"></viz:position>
+      </node>
+      <node id="tasnim" label="tasnim">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-568.1501" y="-798.4384"></viz:position>
+      </node>
+      <node id="usa" label="usa">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="241.8663" y="-1084.2092"></viz:position>
+      </node>
+      <node id="tuesdaythoughts" label="tuesdaythoughts">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="638.88257" y="-431.42163"></viz:position>
+      </node>
+      <node id="tuneng" label="tuneng">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="585.3608" y="394.1675"></viz:position>
+      </node>
+      <node id="ufc217" label="ufc217">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-958.5155" y="456.04324"></viz:position>
+      </node>
+      <node id="violating" label="violating">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="1082.1221" y="191.74147"></viz:position>
+      </node>
+      <node id="waging" label="waging">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-868.7566" y="-464.21405"></viz:position>
+      </node>
+      <node id="warcriminals" label="warcriminals">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-681.153" y="-877.79694"></viz:position>
+      </node>
+      <node id="washington" label="washington">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-405.47003" y="744.8346"></viz:position>
+      </node>
+      <node id="white_helmets" label="white_helmets">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-785.657" y="-771.5362"></viz:position>
+      </node>
+      <node id="white_house" label="white_house">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="555.04987" y="-822.25195"></viz:position>
+      </node>
+      <node id="whole_world" label="whole_world">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-171.97351" y="-1102.92"></viz:position>
+      </node>
+      <node id="vehicles" label="vehicles">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-549.57794" y="-212.894"></viz:position>
+      </node>
+      <node id="vestern_coast" label="vestern_coast">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="682.42566" y="-696.95654"></viz:position>
+      </node>
+      <node id="wahhabism" label="wahhabism">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-569.0892" y="-360.78577"></viz:position>
+      </node>
+      <node id="worldcup" label="worldcup">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="96.88941" y="-288.58075"></viz:position>
+      </node>
+      <node id="worldrefugeeday" label="worldrefugeeday">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-174.88112" y="619.35205"></viz:position>
+      </node>
+      <node id="yellowstone" label="yellowstone">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-134.64516" y="1105.6718"></viz:position>
+      </node>
+      <node id="yemengenocide" label="yemengenocide">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="600.9198" y="-40.41967"></viz:position>
+      </node>
+      <node id="yemeni" label="yemeni">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-741.91376" y="-548.36194"></viz:position>
+      </node>
+      <node id="yemenwarcup" label="yemenwarcup">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-1050.8708" y="350.8342"></viz:position>
+      </node>
+      <node id="وش_تسوي_الحين" label="وش_تسوي_الحين">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="54.961483" y="1113.1829"></viz:position>
+      </node>
+      <node id="ईद" label="ईद">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-469.92432" y="-93.54348"></viz:position>
+      </node>
+      <node id="यमन" label="यमन">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="702.4774" y="98.95129"></viz:position>
+      </node>
+    </nodes>
+    <edges>
+      <edge id="0" source="19june" target="yemen" weight="0.20381580293178558">
+        <viz:color r="253" g="236" b="212"></viz:color>
+      </edge>
+      <edge id="1" source="yemen" target="20jun" weight="0.20381580293178558">
+        <viz:color r="253" g="236" b="212"></viz:color>
+      </edge>
+      <edge id="2" source="yemen" target="2ojun" weight="0.20381580293178558">
+        <viz:color r="253" g="236" b="212"></viz:color>
+      </edge>
+      <edge id="3" source="yemen" target="aggression" weight="0.20381580293178558">
+        <viz:color r="253" g="236" b="212"></viz:color>
+      </edge>
+      <edge id="4" source="yemen" target="art" weight="0.28839704394340515">
+        <viz:color r="234" g="107" b="67"></viz:color>
+      </edge>
+      <edge id="5" source="yemen" target="artillery" weight="0.20381580293178558">
+        <viz:color r="253" g="236" b="212"></viz:color>
+      </edge>
+      <edge id="6" source="yemen" target="chpkurultayı" weight="0.3222575783729553">
+        <viz:color r="210" g="60" b="38"></viz:color>
+      </edge>
+      <edge id="7" source="yemen" target="communities" weight="0.20381580293178558">
+        <viz:color r="253" g="236" b="212"></viz:color>
+      </edge>
+      <edge id="8" source="yemen" target="copa2018" weight="0.20381580293178558">
+        <viz:color r="253" g="236" b="212"></viz:color>
+      </edge>
+      <edge id="9" source="yemen" target="crimes" weight="0.4896320104598999">
+        <viz:color r="179" g="0" b="0"></viz:color>
+      </edge>
+      <edge id="10" source="yemen" target="distroid" weight="0.20381580293178558">
+        <viz:color r="253" g="236" b="212"></viz:color>
+      </edge>
+      <edge id="11" source="yemen" target="dozens" weight="0.20381580293178558">
+        <viz:color r="253" g="236" b="212"></viz:color>
+      </edge>
+      <edge id="12" source="yemen" target="dremstuff" weight="0.20381580293178558">
+        <viz:color r="253" g="236" b="212"></viz:color>
+      </edge>
+      <edge id="13" source="yemen" target="dremtgi" weight="0.28839704394340515">
+        <viz:color r="234" g="107" b="67"></viz:color>
+      </edge>
+      <edge id="14" source="yemen" target="engvtun" weight="0.20381580293178558">
+        <viz:color r="253" g="236" b="212"></viz:color>
+      </edge>
+      <edge id="15" source="yemen" target="fashion" weight="0.20381580293178558">
+        <viz:color r="253" g="236" b="212"></viz:color>
+      </edge>
+      <edge id="16" source="yemen" target="fathersday" weight="0.22950418293476105">
+        <viz:color r="253" g="195" b="159"></viz:color>
+      </edge>
+      <edge id="17" source="yemen" target="hussi" weight="0.20381580293178558">
+        <viz:color r="253" g="236" b="212"></viz:color>
+      </edge>
+      <edge id="18" source="yemen" target="india" weight="0.21256422996520996">
+        <viz:color r="253" g="222" b="194"></viz:color>
+      </edge>
+      <edge id="19" source="yemen" target="internationaldayofyoga2018" weight="0.20381580293178558">
+        <viz:color r="253" g="236" b="212"></viz:color>
+      </edge>
+      <edge id="20" source="yemen" target="iranspain" weight="0.20381580293178558">
+        <viz:color r="253" g="236" b="212"></viz:color>
+      </edge>
+      <edge id="21" source="yemen" target="isisvalverde" weight="0.20381580293178558">
+        <viz:color r="253" g="236" b="212"></viz:color>
+      </edge>
+      <edge id="22" source="yemen" target="islamabad" weight="0.20381580293178558">
+        <viz:color r="253" g="236" b="212"></viz:color>
+      </edge>
+      <edge id="23" source="yemen" target="israelicrimes" weight="0.20381580293178558">
+        <viz:color r="253" g="236" b="212"></viz:color>
+      </edge>
+      <edge id="24" source="yemen" target="love" weight="0.21256422996520996">
+        <viz:color r="253" g="222" b="194"></viz:color>
+      </edge>
+      <edge id="25" source="yemen" target="loveisland" weight="0.20381580293178558">
+        <viz:color r="253" g="236" b="212"></viz:color>
+      </edge>
+      <edge id="26" source="yemen" target="macerata" weight="0.3222575783729553">
+        <viz:color r="210" g="60" b="38"></viz:color>
+      </edge>
+      <edge id="27" source="yemen" target="mmkchasingdarling" weight="0.3222575783729553">
+        <viz:color r="210" g="60" b="38"></viz:color>
+      </edge>
+      <edge id="28" source="yemen" target="notooccupation" weight="0.3222575783729553">
+        <viz:color r="210" g="60" b="38"></viz:color>
+      </edge>
+      <edge id="29" source="yemen" target="nowplaying" weight="0.3534066081047058">
+        <viz:color r="188" g="17" b="11"></viz:color>
+      </edge>
+      <edge id="30" source="yemen" target="otdirecto3f" weight="0.21654778718948364">
+        <viz:color r="253" g="216" b="186"></viz:color>
+      </edge>
+      <edge id="31" source="yemen" target="photo" weight="0.20173966884613037">
+        <viz:color r="254" g="240" b="217"></viz:color>
+      </edge>
+      <edge id="32" source="yemen" target="quds" weight="0.22673024237155914">
+        <viz:color r="253" g="200" b="165"></viz:color>
+      </edge>
+      <edge id="33" source="yemen" target="ripxxxtentacion" weight="0.20381580293178558">
+        <viz:color r="253" g="236" b="212"></viz:color>
+      </edge>
+      <edge id="34" source="yemen" target="saudi_arabia" weight="0.49429476261138916">
+        <viz:color r="179" g="0" b="0"></viz:color>
+      </edge>
+      <edge id="35" source="yemen" target="saudi_crimes" weight="0.21654778718948364">
+        <viz:color r="253" g="216" b="186"></viz:color>
+      </edge>
+      <edge id="36" source="yemen" target="saveyemen" weight="0.2565051317214966">
+        <viz:color r="252" g="152" b="104"></viz:color>
+      </edge>
+      <edge id="37" source="yemen" target="shelling" weight="0.20381580293178558">
+        <viz:color r="253" g="236" b="212"></viz:color>
+      </edge>
+      <edge id="38" source="yemen" target="summer" weight="0.20381580293178558">
+        <viz:color r="253" g="236" b="212"></viz:color>
+      </edge>
+      <edge id="39" source="yemen" target="tuesdaythoughts" weight="0.20381580293178558">
+        <viz:color r="253" g="236" b="212"></viz:color>
+      </edge>
+      <edge id="40" source="yemen" target="tuneng" weight="0.20381580293178558">
+        <viz:color r="253" g="236" b="212"></viz:color>
+      </edge>
+      <edge id="41" source="yemen" target="vehicles" weight="0.20381580293178558">
+        <viz:color r="253" g="236" b="212"></viz:color>
+      </edge>
+      <edge id="42" source="yemen" target="vestern_coast" weight="0.20381580293178558">
+        <viz:color r="253" g="236" b="212"></viz:color>
+      </edge>
+      <edge id="43" source="yemen" target="wahhabism" weight="0.4896320104598999">
+        <viz:color r="179" g="0" b="0"></viz:color>
+      </edge>
+      <edge id="44" source="yemen" target="worldcup" weight="0.36042821407318115">
+        <viz:color r="183" g="8" b="5"></viz:color>
+      </edge>
+      <edge id="45" source="yemen" target="worldrefugeeday" weight="0.20381580293178558">
+        <viz:color r="253" g="236" b="212"></viz:color>
+      </edge>
+      <edge id="46" source="yemen" target="yellowstone" weight="0.28839704394340515">
+        <viz:color r="234" g="107" b="67"></viz:color>
+      </edge>
+      <edge id="47" source="yemen" target="yemengenocide" weight="0.2373467981815338">
+        <viz:color r="252" g="183" b="143"></viz:color>
+      </edge>
+      <edge id="48" source="yemen" target="yemeni" weight="0.20381580293178558">
+        <viz:color r="253" g="236" b="212"></viz:color>
+      </edge>
+      <edge id="49" source="yemen" target="yemenwarcup" weight="0.2565051317214966">
+        <viz:color r="252" g="152" b="104"></viz:color>
+      </edge>
+      <edge id="50" source="yemen" target="وش_تسوي_الحين" weight="0.3222575783729553">
+        <viz:color r="210" g="60" b="38"></viz:color>
+      </edge>
+      <edge id="51" source="yemen" target="ईद" weight="0.20381580293178558">
+        <viz:color r="253" g="236" b="212"></viz:color>
+      </edge>
+      <edge id="52" source="yemen" target="यमन" weight="0.20381580293178558">
+        <viz:color r="253" g="236" b="212"></viz:color>
+      </edge>
+      <edge id="53" source="23jun" target="saudi" weight="0.2158145308494568">
+        <viz:color r="253" g="217" b="188"></viz:color>
+      </edge>
+      <edge id="54" source="saudi" target="aggressive" weight="0.2158145308494568">
+        <viz:color r="253" g="217" b="188"></viz:color>
+      </edge>
+      <edge id="55" source="saudi" target="ai_strikes" weight="0.2158145308494568">
+        <viz:color r="253" g="217" b="188"></viz:color>
+      </edge>
+      <edge id="56" source="saudi" target="arab_world" weight="0.2158145308494568">
+        <viz:color r="253" g="217" b="188"></viz:color>
+      </edge>
+      <edge id="57" source="saudi" target="bahrain" weight="0.2158145308494568">
+        <viz:color r="253" g="217" b="188"></viz:color>
+      </edge>
+      <edge id="58" source="saudi" target="bombardment" weight="0.2158145308494568">
+        <viz:color r="253" g="217" b="188"></viz:color>
+      </edge>
+      <edge id="59" source="saudi" target="canada" weight="0.3053751289844513">
+        <viz:color r="222" g="84" b="53"></viz:color>
+      </edge>
+      <edge id="60" source="saudi" target="chidren" weight="0.2158145308494568">
+        <viz:color r="253" g="217" b="188"></viz:color>
+      </edge>
+      <edge id="61" source="saudi" target="childrensrights" weight="0.2158145308494568">
+        <viz:color r="253" g="217" b="188"></viz:color>
+      </edge>
+      <edge id="62" source="saudi" target="demonstration" weight="0.2158145308494568">
+        <viz:color r="253" g="217" b="188"></viz:color>
+      </edge>
+      <edge id="63" source="saudi" target="denouncing" weight="0.2158145308494568">
+        <viz:color r="253" g="217" b="188"></viz:color>
+      </edge>
+      <edge id="64" source="saudi" target="dixine" weight="0.24654120206832886">
+        <viz:color r="252" g="168" b="124"></viz:color>
+      </edge>
+      <edge id="65" source="saudi" target="embassy" weight="0.2158145308494568">
+        <viz:color r="253" g="217" b="188"></viz:color>
+      </edge>
+      <edge id="66" source="saudi" target="entries" weight="0.2158145308494568">
+        <viz:color r="253" g="217" b="188"></viz:color>
+      </edge>
+      <edge id="67" source="saudi" target="famine" weight="0.2158145308494568">
+        <viz:color r="253" g="217" b="188"></viz:color>
+      </edge>
+      <edge id="68" source="saudi" target="freeraif" weight="0.2158145308494568">
+        <viz:color r="253" g="217" b="188"></viz:color>
+      </edge>
+      <edge id="69" source="saudi" target="hajj" weight="0.2158145308494568">
+        <viz:color r="253" g="217" b="188"></viz:color>
+      </edge>
+      <edge id="70" source="saudi" target="hajjstampede" weight="0.2158145308494568">
+        <viz:color r="253" g="217" b="188"></viz:color>
+      </edge>
+      <edge id="71" source="saudi" target="hazard" weight="0.2158145308494568">
+        <viz:color r="253" g="217" b="188"></viz:color>
+      </edge>
+      <edge id="72" source="saudi" target="hudaydah" weight="0.2158145308494568">
+        <viz:color r="253" g="217" b="188"></viz:color>
+      </edge>
+      <edge id="73" source="saudi" target="intervene" weight="0.2158145308494568">
+        <viz:color r="253" g="217" b="188"></viz:color>
+      </edge>
+      <edge id="74" source="saudi" target="mediterranean" weight="0.2158145308494568">
+        <viz:color r="253" g="217" b="188"></viz:color>
+      </edge>
+      <edge id="75" source="saudi" target="mohammed_bin_salman" weight="0.2158145308494568">
+        <viz:color r="253" g="217" b="188"></viz:color>
+      </edge>
+      <edge id="76" source="saudi" target="nimrlives" weight="0.2158145308494568">
+        <viz:color r="253" g="217" b="188"></viz:color>
+      </edge>
+      <edge id="77" source="saudi" target="organized" weight="0.2158145308494568">
+        <viz:color r="253" g="217" b="188"></viz:color>
+      </edge>
+      <edge id="78" source="saudi" target="policies" weight="0.2158145308494568">
+        <viz:color r="253" g="217" b="188"></viz:color>
+      </edge>
+      <edge id="79" source="saudi" target="protests" weight="0.2158145308494568">
+        <viz:color r="253" g="217" b="188"></viz:color>
+      </edge>
+      <edge id="80" source="saudi" target="raifbadawi" weight="0.2158145308494568">
+        <viz:color r="253" g="217" b="188"></viz:color>
+      </edge>
+      <edge id="81" source="saudi" target="rally" weight="0.2158145308494568">
+        <viz:color r="253" g="217" b="188"></viz:color>
+      </edge>
+      <edge id="82" source="saudi" target="regim" weight="0.2158145308494568">
+        <viz:color r="253" g="217" b="188"></viz:color>
+      </edge>
+      <edge id="83" source="saudi" target="riyadh" weight="0.2158145308494568">
+        <viz:color r="253" g="217" b="188"></viz:color>
+      </edge>
+      <edge id="84" source="saudi" target="saada" weight="0.2158145308494568">
+        <viz:color r="253" g="217" b="188"></viz:color>
+      </edge>
+      <edge id="85" source="saudi" target="sheikhnimr" weight="0.2158145308494568">
+        <viz:color r="253" g="217" b="188"></viz:color>
+      </edge>
+      <edge id="86" source="saudi" target="uk" weight="0.3053751289844513">
+        <viz:color r="222" g="84" b="53"></viz:color>
+      </edge>
+      <edge id="87" source="saudi" target="wahhabis" weight="0.2158145308494568">
+        <viz:color r="253" g="217" b="188"></viz:color>
+      </edge>
+      <edge id="88" source="saudi" target="warplane" weight="0.2158145308494568">
+        <viz:color r="253" g="217" b="188"></viz:color>
+      </edge>
+      <edge id="89" source="saudi" target="woman" weight="0.3053751289844513">
+        <viz:color r="222" g="84" b="53"></viz:color>
+      </edge>
+      <edge id="90" source="saudi" target="yemenunderattack" weight="0.2158145308494568">
+        <viz:color r="253" g="217" b="188"></viz:color>
+      </edge>
+      <edge id="91" source="saudi" target="ذكرى_استشهاد_النمر" weight="0.2158145308494568">
+        <viz:color r="253" g="217" b="188"></viz:color>
+      </edge>
+      <edge id="92" source="saudi" target="من_الصالحين" weight="0.2158145308494568">
+        <viz:color r="253" g="217" b="188"></viz:color>
+      </edge>
+      <edge id="93" source="saudi" target="وماقتلوه" weight="0.2158145308494568">
+        <viz:color r="253" g="217" b="188"></viz:color>
+      </edge>
+      <edge id="94" source="saudi" target="सऊद" weight="0.2158145308494568">
+        <viz:color r="253" g="217" b="188"></viz:color>
+      </edge>
+      <edge id="95" source="7sabah" target="iran" weight="0.2572137415409088">
+        <viz:color r="252" g="151" b="102"></viz:color>
+      </edge>
+      <edge id="96" source="iran" target="doğa" weight="0.20978322625160217">
+        <viz:color r="253" g="227" b="200"></viz:color>
+      </edge>
+      <edge id="97" source="iran" target="irandeal" weight="0.20978322625160217">
+        <viz:color r="253" g="227" b="200"></viz:color>
+      </edge>
+      <edge id="98" source="iran" target="irantalks" weight="0.23467375338077545">
+        <viz:color r="252" g="187" b="149"></viz:color>
+      </edge>
+      <edge id="99" source="iran" target="kültür" weight="0.2973324954509735">
+        <viz:color r="228" g="95" b="60"></viz:color>
+      </edge>
+      <edge id="100" source="iran" target="mustseeiran" weight="0.40872126817703247">
+        <viz:color r="179" g="0" b="0"></viz:color>
+      </edge>
+      <edge id="101" source="iran" target="nature" weight="0.20978322625160217">
+        <viz:color r="253" g="227" b="200"></viz:color>
+      </edge>
+      <edge id="102" source="iran" target="nuclear" weight="0.20978322625160217">
+        <viz:color r="253" g="227" b="200"></viz:color>
+      </edge>
+      <edge id="103" source="iran" target="revolution" weight="0.23467375338077545">
+        <viz:color r="252" g="187" b="149"></viz:color>
+      </edge>
+      <edge id="104" source="iran" target="russia" weight="0.2504815459251404">
+        <viz:color r="252" g="162" b="116"></viz:color>
+      </edge>
+      <edge id="105" source="algreen" target="trump" weight="0.5298746824264526">
+        <viz:color r="179" g="0" b="0"></viz:color>
+      </edge>
+      <edge id="106" source="trump" target="congeres" weight="0.5298746824264526">
+        <viz:color r="179" g="0" b="0"></viz:color>
+      </edge>
+      <edge id="107" source="trump" target="fake" weight="0.5298746824264526">
+        <viz:color r="179" g="0" b="0"></viz:color>
+      </edge>
+      <edge id="108" source="trump" target="fakepresident" weight="0.5298746824264526">
+        <viz:color r="179" g="0" b="0"></viz:color>
+      </edge>
+      <edge id="109" source="trump" target="gustice" weight="0.38208261132240295">
+        <viz:color r="179" g="0" b="0"></viz:color>
+      </edge>
+      <edge id="110" source="trump" target="impachment" weight="0.5298746824264526">
+        <viz:color r="179" g="0" b="0"></viz:color>
+      </edge>
+      <edge id="111" source="trump" target="interpellation" weight="0.5298746824264526">
+        <viz:color r="179" g="0" b="0"></viz:color>
+      </edge>
+      <edge id="112" source="trump" target="notmypresident" weight="0.45115745067596436">
+        <viz:color r="179" g="0" b="0"></viz:color>
+      </edge>
+      <edge id="113" source="trump" target="notrump" weight="0.26142066717147827">
+        <viz:color r="252" g="144" b="94"></viz:color>
+      </edge>
+      <edge id="114" source="trump" target="people" weight="0.5298746824264526">
+        <viz:color r="179" g="0" b="0"></viz:color>
+      </edge>
+      <edge id="115" source="trump" target="president" weight="0.4215407073497772">
+        <viz:color r="179" g="0" b="0"></viz:color>
+      </edge>
+      <edge id="116" source="trump" target="usa" weight="0.46465447545051575">
+        <viz:color r="179" g="0" b="0"></viz:color>
+      </edge>
+      <edge id="117" source="anti" target="freepalestine" weight="0.4334351122379303">
+        <viz:color r="179" g="0" b="0"></viz:color>
+      </edge>
+      <edge id="118" source="anti" target="israel" weight="0.3204837739467621">
+        <viz:color r="211" g="63" b="39"></viz:color>
+      </edge>
+      <edge id="119" source="freepalestine" target="antiisrael" weight="0.6493576765060425">
+        <viz:color r="179" g="0" b="0"></viz:color>
+      </edge>
+      <edge id="120" source="freepalestine" target="bbcnews" weight="0.35394230484962463">
+        <viz:color r="187" g="17" b="10"></viz:color>
+      </edge>
+      <edge id="121" source="freepalestine" target="bds" weight="0.327799916267395">
+        <viz:color r="206" g="53" b="33"></viz:color>
+      </edge>
+      <edge id="122" source="freepalestine" target="breaking" weight="0.2833315134048462">
+        <viz:color r="238" g="114" b="72"></viz:color>
+      </edge>
+      <edge id="123" source="freepalestine" target="cnn" weight="0.35394230484962463">
+        <viz:color r="187" g="17" b="10"></viz:color>
+      </edge>
+      <edge id="124" source="freepalestine" target="deleteisrael" weight="0.2832474410533905">
+        <viz:color r="238" g="114" b="72"></viz:color>
+      </edge>
+      <edge id="125" source="freepalestine" target="free" weight="0.5700883269309998">
+        <viz:color r="179" g="0" b="0"></viz:color>
+      </edge>
+      <edge id="126" source="freepalestine" target="gaza" weight="0.3094988465309143">
+        <viz:color r="219" g="78" b="49"></viz:color>
+      </edge>
+      <edge id="127" source="freepalestine" target="israel" weight="0.41630983352661133">
+        <viz:color r="179" g="0" b="0"></viz:color>
+      </edge>
+      <edge id="128" source="freepalestine" target="jerusalem" weight="0.3186368942260742">
+        <viz:color r="213" g="65" b="41"></viz:color>
+      </edge>
+      <edge id="129" source="freepalestine" target="msnbc" weight="0.35394230484962463">
+        <viz:color r="187" g="17" b="10"></viz:color>
+      </edge>
+      <edge id="130" source="freepalestine" target="nbc" weight="0.35394230484962463">
+        <viz:color r="187" g="17" b="10"></viz:color>
+      </edge>
+      <edge id="131" source="freepalestine" target="news" weight="0.35394230484962463">
+        <viz:color r="187" g="17" b="10"></viz:color>
+      </edge>
+      <edge id="132" source="freepalestine" target="palestine" weight="0.5460295081138611">
+        <viz:color r="179" g="0" b="0"></viz:color>
+      </edge>
+      <edge id="133" source="freepalestine" target="qudsday" weight="0.26326778531074524">
+        <viz:color r="252" g="142" b="90"></viz:color>
+      </edge>
+      <edge id="134" source="freepalestine" target="savechildren" weight="0.21272075176239014">
+        <viz:color r="253" g="222" b="194"></viz:color>
+      </edge>
+      <edge id="135" source="freepalestine" target="westbank" weight="0.33728402853012085">
+        <viz:color r="199" g="40" b="25"></viz:color>
+      </edge>
+      <edge id="136" source="freepalestine" target="zionism" weight="0.28766587376594543">
+        <viz:color r="235" g="108" b="68"></viz:color>
+      </edge>
+      <edge id="137" source="israel" target="antiisrael" weight="0.4672917127609253">
+        <viz:color r="179" g="0" b="0"></viz:color>
+      </edge>
+      <edge id="138" source="israel" target="bbcnews" weight="0.27227163314819336">
+        <viz:color r="246" g="129" b="81"></viz:color>
+      </edge>
+      <edge id="139" source="israel" target="breaking" weight="0.21477912366390228">
+        <viz:color r="253" g="219" b="190"></viz:color>
+      </edge>
+      <edge id="140" source="israel" target="cnn" weight="0.27227163314819336">
+        <viz:color r="246" g="129" b="81"></viz:color>
+      </edge>
+      <edge id="141" source="israel" target="deleteisrael" weight="0.21522052586078644">
+        <viz:color r="253" g="218" b="189"></viz:color>
+      </edge>
+      <edge id="142" source="israel" target="free" weight="0.4385428726673126">
+        <viz:color r="179" g="0" b="0"></viz:color>
+      </edge>
+      <edge id="143" source="israel" target="israil" weight="0.23180927336215973">
+        <viz:color r="253" g="192" b="155"></viz:color>
+      </edge>
+      <edge id="144" source="israel" target="jerusalem" weight="0.27227163314819336">
+        <viz:color r="246" g="129" b="81"></viz:color>
+      </edge>
+      <edge id="145" source="israel" target="land" weight="0.3292848467826843">
+        <viz:color r="205" g="51" b="32"></viz:color>
+      </edge>
+      <edge id="146" source="israel" target="loss" weight="0.3292848467826843">
+        <viz:color r="205" g="51" b="32"></viz:color>
+      </edge>
+      <edge id="147" source="israel" target="msnbc" weight="0.27227163314819336">
+        <viz:color r="246" g="129" b="81"></viz:color>
+      </edge>
+      <edge id="148" source="israel" target="nakba" weight="0.3292848467826843">
+        <viz:color r="205" g="51" b="32"></viz:color>
+      </edge>
+      <edge id="149" source="israel" target="nakba69" weight="0.3292848467826843">
+        <viz:color r="205" g="51" b="32"></viz:color>
+      </edge>
+      <edge id="150" source="israel" target="nbc" weight="0.27227163314819336">
+        <viz:color r="246" g="129" b="81"></viz:color>
+      </edge>
+      <edge id="151" source="israel" target="news" weight="0.27227163314819336">
+        <viz:color r="246" g="129" b="81"></viz:color>
+      </edge>
+      <edge id="152" source="israel" target="palestine" weight="0.46159276366233826">
+        <viz:color r="179" g="0" b="0"></viz:color>
+      </edge>
+      <edge id="153" source="israel" target="palestinian" weight="0.34628963470458984">
+        <viz:color r="193" g="27" b="17"></viz:color>
+      </edge>
+      <edge id="154" source="israel" target="qudsday" weight="0.25945717096328735">
+        <viz:color r="252" g="148" b="98"></viz:color>
+      </edge>
+      <edge id="155" source="israel" target="westbank" weight="0.25945717096328735">
+        <viz:color r="252" g="148" b="98"></viz:color>
+      </edge>
+      <edge id="156" source="israel" target="zionism" weight="0.2169026881456375">
+        <viz:color r="253" g="215" b="185"></viz:color>
+      </edge>
+      <edge id="157" source="israel" target="zionist" weight="0.23180927336215973">
+        <viz:color r="253" g="192" b="155"></viz:color>
+      </edge>
+      <edge id="158" source="assistance" target="us" weight="0.25621160864830017">
+        <viz:color r="252" g="153" b="104"></viz:color>
+      </edge>
+      <edge id="159" source="us" target="atomic_energi" weight="0.25621160864830017">
+        <viz:color r="252" g="153" b="104"></viz:color>
+      </edge>
+      <edge id="160" source="us" target="biological" weight="0.25621160864830017">
+        <viz:color r="252" g="153" b="104"></viz:color>
+      </edge>
+      <edge id="161" source="us" target="blame" weight="0.25621160864830017">
+        <viz:color r="252" g="153" b="104"></viz:color>
+      </edge>
+      <edge id="162" source="us" target="britain" weight="0.25621160864830017">
+        <viz:color r="252" g="153" b="104"></viz:color>
+      </edge>
+      <edge id="163" source="us" target="chemical_weapones" weight="0.25621160864830017">
+        <viz:color r="252" g="153" b="104"></viz:color>
+      </edge>
+      <edge id="164" source="us" target="childrensrights" weight="0.25621160864830017">
+        <viz:color r="252" g="153" b="104"></viz:color>
+      </edge>
+      <edge id="165" source="us" target="comitte" weight="0.25621160864830017">
+        <viz:color r="252" g="153" b="104"></viz:color>
+      </edge>
+      <edge id="166" source="us" target="condemned" weight="0.25621160864830017">
+        <viz:color r="252" g="153" b="104"></viz:color>
+      </edge>
+      <edge id="167" source="us" target="defence_minister" weight="0.25621160864830017">
+        <viz:color r="252" g="153" b="104"></viz:color>
+      </edge>
+      <edge id="168" source="us" target="deterrence" weight="0.25621160864830017">
+        <viz:color r="252" g="153" b="104"></viz:color>
+      </edge>
+      <edge id="169" source="us" target="deterrent" weight="0.25621160864830017">
+        <viz:color r="252" g="153" b="104"></viz:color>
+      </edge>
+      <edge id="170" source="us" target="diplomacy" weight="0.25621160864830017">
+        <viz:color r="252" g="153" b="104"></viz:color>
+      </edge>
+      <edge id="171" source="us" target="donald_trump" weight="0.4442584216594696">
+        <viz:color r="179" g="0" b="0"></viz:color>
+      </edge>
+      <edge id="172" source="us" target="economic" weight="0.25621160864830017">
+        <viz:color r="252" g="153" b="104"></viz:color>
+      </edge>
+      <edge id="173" source="us" target="evidences" weight="0.25621160864830017">
+        <viz:color r="252" g="153" b="104"></viz:color>
+      </edge>
+      <edge id="174" source="us" target="extremism" weight="0.25621160864830017">
+        <viz:color r="252" g="153" b="104"></viz:color>
+      </edge>
+      <edge id="175" source="us" target="fabrications" weight="0.25621160864830017">
+        <viz:color r="252" g="153" b="104"></viz:color>
+      </edge>
+      <edge id="176" source="us" target="fatf" weight="0.25621160864830017">
+        <viz:color r="252" g="153" b="104"></viz:color>
+      </edge>
+      <edge id="177" source="us" target="forein_affaire" weight="0.25621160864830017">
+        <viz:color r="252" g="153" b="104"></viz:color>
+      </edge>
+      <edge id="178" source="us" target="forein_minister" weight="0.25621160864830017">
+        <viz:color r="252" g="153" b="104"></viz:color>
+      </edge>
+      <edge id="179" source="us" target="france" weight="0.2523516118526459">
+        <viz:color r="252" g="159" b="112"></viz:color>
+      </edge>
+      <edge id="180" source="us" target="funding" weight="0.25621160864830017">
+        <viz:color r="252" g="153" b="104"></viz:color>
+      </edge>
+      <edge id="181" source="us" target="genev" weight="0.25621160864830017">
+        <viz:color r="252" g="153" b="104"></viz:color>
+      </edge>
+      <edge id="182" source="us" target="goverment" weight="0.3828094005584717">
+        <viz:color r="179" g="0" b="0"></viz:color>
+      </edge>
+      <edge id="183" source="us" target="humiliate" weight="0.25621160864830017">
+        <viz:color r="252" g="153" b="104"></viz:color>
+      </edge>
+      <edge id="184" source="us" target="humiliated" weight="0.25621160864830017">
+        <viz:color r="252" g="153" b="104"></viz:color>
+      </edge>
+      <edge id="185" source="us" target="maj_gen_igor_kirillov" weight="0.25621160864830017">
+        <viz:color r="252" g="153" b="104"></viz:color>
+      </edge>
+      <edge id="186" source="us" target="mbs" weight="0.25621160864830017">
+        <viz:color r="252" g="153" b="104"></viz:color>
+      </edge>
+      <edge id="187" source="us" target="mehrdad_lahuti" weight="0.25621160864830017">
+        <viz:color r="252" g="153" b="104"></viz:color>
+      </edge>
+      <edge id="188" source="us" target="mohammad_baqir_nubakht" weight="0.25621160864830017">
+        <viz:color r="252" g="153" b="104"></viz:color>
+      </edge>
+      <edge id="189" source="us" target="mp" weight="0.25621160864830017">
+        <viz:color r="252" g="153" b="104"></viz:color>
+      </edge>
+      <edge id="190" source="us" target="parliment" weight="0.25621160864830017">
+        <viz:color r="252" g="153" b="104"></viz:color>
+      </edge>
+      <edge id="191" source="us" target="proves" weight="0.25621160864830017">
+        <viz:color r="252" g="153" b="104"></viz:color>
+      </edge>
+      <edge id="192" source="us" target="radiation" weight="0.25621160864830017">
+        <viz:color r="252" g="153" b="104"></viz:color>
+      </edge>
+      <edge id="193" source="us" target="russian" weight="0.25621160864830017">
+        <viz:color r="252" g="153" b="104"></viz:color>
+      </edge>
+      <edge id="194" source="us" target="senior" weight="0.25621160864830017">
+        <viz:color r="252" g="153" b="104"></viz:color>
+      </edge>
+      <edge id="195" source="us" target="shamelessly" weight="0.25621160864830017">
+        <viz:color r="252" g="153" b="104"></viz:color>
+      </edge>
+      <edge id="196" source="us" target="shia" weight="0.36253654956817627">
+        <viz:color r="181" g="5" b="3"></viz:color>
+      </edge>
+      <edge id="197" source="us" target="spockesman" weight="0.36253654956817627">
+        <viz:color r="181" g="5" b="3"></viz:color>
+      </edge>
+      <edge id="198" source="us" target="stop_alsaud" weight="0.25621160864830017">
+        <viz:color r="252" g="153" b="104"></viz:color>
+      </edge>
+      <edge id="199" source="us" target="submit" weight="0.25621160864830017">
+        <viz:color r="252" g="153" b="104"></viz:color>
+      </edge>
+      <edge id="200" source="us" target="tasnim" weight="0.25621160864830017">
+        <viz:color r="252" g="153" b="104"></viz:color>
+      </edge>
+      <edge id="201" source="us" target="ufc217" weight="0.25621160864830017">
+        <viz:color r="252" g="153" b="104"></viz:color>
+      </edge>
+      <edge id="202" source="us" target="violating" weight="0.25621160864830017">
+        <viz:color r="252" g="153" b="104"></viz:color>
+      </edge>
+      <edge id="203" source="us" target="waging" weight="0.25621160864830017">
+        <viz:color r="252" g="153" b="104"></viz:color>
+      </edge>
+      <edge id="204" source="us" target="warcriminals" weight="0.25621160864830017">
+        <viz:color r="252" g="153" b="104"></viz:color>
+      </edge>
+      <edge id="205" source="us" target="washington" weight="0.25621160864830017">
+        <viz:color r="252" g="153" b="104"></viz:color>
+      </edge>
+      <edge id="206" source="us" target="white_helmets" weight="0.25621160864830017">
+        <viz:color r="252" g="153" b="104"></viz:color>
+      </edge>
+      <edge id="207" source="us" target="white_house" weight="0.36253654956817627">
+        <viz:color r="181" g="5" b="3"></viz:color>
+      </edge>
+      <edge id="208" source="us" target="whole_world" weight="0.25621160864830017">
+        <viz:color r="252" g="153" b="104"></viz:color>
+      </edge>
+    </edges>
+  </graph>
+</gexf>
