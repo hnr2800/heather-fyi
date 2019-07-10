@@ -1,0 +1,72 @@
+@import url('https://fonts.googleapis.com/css?family=Inconsolata|Roboto&display=swap');
+
+/*TODO: add dark mode switch*/
+
+a:hover {
+	text-decoration: underline;
+}
+
+body {
+	margin: 0;
+}
+
+img {
+	height: 100%;
+	width: 100%;
+	border-radius: inherit;
+	-webkit-filter: grayscale(100%); /* Safari 6.0 - 9.0 */
+  	filter: grayscale(100%);
+  	transition-property: filter;
+  	transition-duration: 1s;
+}
+
+img:hover {
+	filter: grayscale(0%);
+}
+
+.nav {
+	text-align: center;
+}
+
+.nav a {
+	margin: 12px;
+	padding: 4px;
+	color: #000;
+	text-decoration: none;
+	font-family: 'Inconsolata', monospace;
+	letter-spacing: 1.25px;
+	color: #ff386f;
+}
+
+.nav a:hover {
+	color: #000;
+	background-color: #fff336;
+}
+
+.title, .title a {
+	color: #6981ff;
+	font-family: 'Inconsolata', monospace;
+	text-align: center;
+	text-decoration: none;
+	letter-spacing: 4px;
+}
+
+.title a:hover {
+	text-decoration: underline;
+}
+
+.title-img {
+	border: 4px solid #fff336;
+	border-radius: 100px;
+	height: 100px;
+	width: 100px;
+	display: block;
+ 	margin-left: auto;
+  	margin-right: auto;
+}
+
+.top {
+	font-family: 'Inconsolata', monospace;
+	text-align: center;
+	padding: 48px;
+}
