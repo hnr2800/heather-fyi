@@ -1,0 +1,64 @@
+/* You can add global styles to this file, and also import other style files */
+
+@import url('https://fonts.googleapis.com/css?family=Inconsolata|Roboto&display=swap');
+
+/*TODO: add dark mode switch*/
+
+a:hover {
+	text-decoration: underline;
+}
+
+body {
+	margin: 0;
+}
+
+.nav {
+	text-align: center;
+
+	a {
+		margin: 12px;
+		padding: 4px;
+		color: #000;
+		text-decoration: none;
+		font-family: 'Inconsolata', monospace;
+		letter-spacing: 1.25px;
+		color: #ff386f;
+
+		:hover {
+			color: #000;
+			background-color: #fff336;
+		}
+	}
+}
+
+.title, .title a {
+	color: #6981ff;
+	font-family: 'Inconsolata', monospace;
+	text-align: center;
+	text-decoration: none;
+	letter-spacing: 4px;
+
+	:hover {
+		text-decoration: underline;
+	}
+}
+
+.title-img {
+	height: 100%;
+	width: 100%;
+	border-radius: inherit;
+	-webkit-filter: grayscale(100%); /* Safari 6.0 - 9.0 */
+  	filter: grayscale(100%);
+  	transition-property: filter;
+  	transition-duration: 1s;
+
+  	:hover {
+  		filter: grayscale(0%);
+  	}
+}
+
+.top {
+	font-family: 'Inconsolata', monospace;
+	text-align: center;
+	padding: 48px;
+}
