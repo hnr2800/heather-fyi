@@ -1,74 +1,117 @@
-/* You can add global styles to this file, and also import other style files */
-
-@import url('https://fonts.googleapis.com/css?family=Inconsolata|Roboto&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Inconsolata|Roboto:400,400i,700,900&display=swap');
 
 /*TODO: add dark mode switch*/
 
-a:hover {
-	text-decoration: underline;
-}
+// fonts
+$inconsolata: 'Inconsolata', monospace;
+$roboto: 'Roboto', sans-serif;
 
-body {
-	margin: 0;
-}
-
-img {
-	height: 100%;
-	width: 100%;
-	border-radius: inherit;
-	-webkit-filter: grayscale(100%); /* Safari 6.0 - 9.0 */
-  	filter: grayscale(100%);
-  	transition-property: filter;
-  	transition-duration: 1s;
-}
-
-img:hover {
-	filter: grayscale(0%);
-}
-
-.nav {
-	text-align: center;
-}
-
-.nav a {
-	margin: 12px;
-	padding: 4px;
-	color: #000;
-	text-decoration: none;
-	font-family: 'Inconsolata', monospace;
-	letter-spacing: 1.25px;
-	color: #ff386f;
-}
-
-.nav a:hover {
-	color: #000;
-	background-color: #fff336;
-}
-
-.title, .title a {
-	color: #6981ff;
-	font-family: 'Inconsolata', monospace;
-	text-align: center;
-	text-decoration: none;
-	letter-spacing: 4px;
-}
-
-.title a:hover {
-	text-decoration: underline;
-}
-
-.title-img {
-	border: 4px solid #fff336;
-	border-radius: 100px;
-	height: 100px;
-	width: 100px;
-	display: block;
- 	margin-left: auto;
-  	margin-right: auto;
-}
+// colors
+$blue: #6981ff;
+$pink: #ff386f;
+$yellow: #fff336;
+$black: #000000;
 
 .top {
-	font-family: 'Inconsolata', monospace;
+	font-family: $inconsolata;
 	text-align: center;
 	padding: 48px;
+
+	.nav {
+		text-align: center;
+
+		a {
+			margin: 12px;
+			padding: 4px;
+			color: $black;
+			text-decoration: none;
+			font-family: $inconsolata;
+			letter-spacing: 1.25px;
+			color: $pink;
+
+			&:hover {
+				color: $black;
+				background-color: $yellow;
+			}
+		}
+	}
+
+	.title, .title a {
+		color: $blue;
+		font-family: $inconsolata;
+		text-align: center;
+		text-decoration: none;
+		letter-spacing: 4px;
+
+		&:hover {
+			text-decoration: underline;
+		}
+	}
+
+	.title-img {
+		border-radius: 100px;
+		height: 100px;
+		width: 100px;
+		display: block;
+	 	margin-left: auto;
+	  	margin-right: auto;
+		-webkit-filter: grayscale(100%); /* Safari 6.0 - 9.0 */
+	  	filter: grayscale(100%);
+	  	transition-property: filter;
+	  	transition-duration: 1s;
+
+	  	&:hover {
+	  		filter: grayscale(0%);
+	  	}
+	}
+}
+
+.content {
+	// padding: 48px 200px;
+	width: 500px;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+
+	.bold {
+		font-weight: 700;
+	}
+
+	button.see-more {
+		font: 16px $inconsolata;
+		color: $pink;
+		background-color: none;
+		border: none;
+		padding: 4px;
+		margin: 0;
+		letter-spacing: 1.25px;
+
+		&:hover {
+			color: $black;
+			background-color: $yellow;
+		}
+	}
+
+	h2 {
+		font-family: $inconsolata;
+		padding: 4px;
+		background-color: $yellow;
+		width: fit-content;
+	}
+
+	.italic {
+		font-style: italic;
+	}
+
+	p, ul, li {
+		font-family: $roboto;
+	}
+
+	.no-bottom {
+		margin-bottom: 0;
+	}
+
+	.no-top {
+		margin-top: 0;
+	}
 }

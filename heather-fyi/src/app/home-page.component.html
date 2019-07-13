@@ -1,0 +1,25 @@
+<h2>Education</h2>
+
+<div class="education-content">
+	<p>
+		<span class="bold">B.S. Computer Science,</span><br>
+		Virginia Tech, Blacksburg, VA<br>
+		Jul 2016 - Dec 2019<br>
+		<span class="italic">Overall GPA: 3.7, In-Major GPA: 3.6</span>
+	</p>
+</div>
+
+<div *ngIf="seeMoreEducation">
+	<p class="no-bottom bold">Awards:</p>
+	<ul class="no-top">
+		<li>Dean’s List Fall 2016 - Spring 2019</li>
+		<li>Member of the National Society of Collegiate Scholars</li>
+		<li>Computer Science Resource Consortium (CSRC) Scholarship</li>
+		<li>Corporate-Sponsored National Merit Scholarship</li>
+		<li>Marvin L. Pollard & Lelia W. Pollard Engineering Scholarship</li>
+	</ul>
+</div>
+
+<button class="see-more" (click)="seeMoreEducation = !seeMoreEducation">
+	{{ seeMoreEducation ? 'SEE LESS': 'SEE MORE' }}
+</button>
