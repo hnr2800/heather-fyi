@@ -1,6 +1,5 @@
 <h2>Education</h2>
-
-<div class="education-content">
+<div>
 	<p>
 		<span class="bold">B.S. Computer Science,</span><br>
 		Virginia Tech, Blacksburg, VA<br>
@@ -8,7 +7,6 @@
 		<span class="italic">Overall GPA: 3.7, In-Major GPA: 3.6</span>
 	</p>
 </div>
-
 <div *ngIf="seeMoreEducation">
 	<p class="no-bottom bold">Awards:</p>
 	<ul class="no-top">
@@ -19,7 +17,33 @@
 		<li>Marvin L. Pollard & Lelia W. Pollard Engineering Scholarship</li>
 	</ul>
 </div>
-
 <button class="see-more" (click)="seeMoreEducation = !seeMoreEducation">
 	{{ seeMoreEducation ? 'SEE LESS': 'SEE MORE' }}
 </button>
+
+
+<h2>Technical Skills</h2>
+<div class="chips-container">
+	<div *ngFor="let skill of skills" class="chip">{{ skill }}</div>
+</div>
+
+
+<h2>Experience</h2>
+<div *ngFor="let job of experience" class="experience-content">
+	<h3>{{ job.title }}</h3>
+	<div class="chips-container">
+		<div class="chip">
+			<mat-icon>business_center</mat-icon>
+			{{ job.company }}
+		</div>
+		<div class="chip">
+			<mat-icon>location_on</mat-icon>
+			{{ job.location }}
+		</div>
+		<div class="chip">
+			<mat-icon>calendar_today</mat-icon>
+			{{ job.date }}
+		</div>
+	</div>
+	<p>{{ job.description }}</p>
+</div>
