@@ -47,3 +47,26 @@
 	</div>
 	<p>{{ job.description }}</p>
 </div>
+<ng-container *ngIf="seeMoreExperience">
+	<div *ngFor="let job of moreExperience" class="experience-content">
+		<h3>{{ job.title }}</h3>
+		<div class="chips-container">
+			<div class="chip">
+				<mat-icon>business_center</mat-icon>
+				{{ job.company }}
+			</div>
+			<div class="chip">
+				<mat-icon>location_on</mat-icon>
+				{{ job.location }}
+			</div>
+			<div class="chip">
+				<mat-icon>calendar_today</mat-icon>
+				{{ job.date }}
+			</div>
+		</div>
+		<p>{{ job.description }}</p>
+	</div>
+</ng-container>
+<button class="see-more" (click)="seeMoreExperience = !seeMoreExperience">
+	{{ seeMoreExperience ? 'SEE LESS': 'SEE MORE' }}
+</button>
