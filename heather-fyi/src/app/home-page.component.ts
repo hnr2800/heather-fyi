@@ -15,6 +15,13 @@ export class HomePage {
 
 	experience = [
 		{
+			title: 'Undergraduate Teaching Assistant',
+			company: 'Virginia Tech Department of Computer Science',
+			date: 'Aug - Dec 2019',
+			location: 'Blacksburg, VA',
+			description: 'UTA under Osman Balci for the iOS Mobile Development course during the Fall 2019 semester.  My main responsibilities are to grade homework assignments and assist students as they learn Swift, SwiftUI, and Xcode.'
+		},
+		{
 			title: 'Software Engineering Intern',
 			company: 'Google, Inc.',
 			date: 'May - Aug 2019',
