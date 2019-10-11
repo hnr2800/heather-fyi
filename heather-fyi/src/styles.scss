@@ -15,6 +15,10 @@ $yellow: #fff336;
 $black: #000000;
 $white: #fff;
 
+body {
+	margin: 0;
+}
+
 .top {
 	font-family: $inconsolata;
 	text-align: center;
@@ -117,6 +121,7 @@ $white: #fff;
 
 	.experience-content {
 		.chip {
+			display: flex;
 			padding: 4px 13px;
 			padding-left: 10px;
 			font-size: 14.5px;
@@ -178,7 +183,6 @@ $white: #fff;
 		flex-direction: column;
 
 		a.social-link {
-			width: 100%;
 			border: none;
 			margin: 8px 0;
 			padding: 8px;
@@ -219,6 +223,30 @@ $white: #fff;
 					text-decoration: underline;
 				}
 			}
+		}
+	}
+}
+
+@media only screen and (max-width: 500px) {
+	.top {
+	    padding: 20px 10px 0 10px;
+		.nav {
+			display: flex;
+		}
+	}
+	.content {
+		margin: 10px;
+	    width: calc(100% - 20px);
+	    max-width: calc(100% - 20px);
+	}
+}
+
+@media only screen and (max-width: 300px) {
+	.top .nav {
+		flex-direction: column;
+		a {
+		    margin: 4px;
+		    font-size: 18px;
 		}
 	}
 }

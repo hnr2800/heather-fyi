@@ -15,6 +15,13 @@ export class HomePage {
 
 	experience = [
 		{
+			title: 'Front-End Software Engineer - Google Cloud',
+			company: 'Google',
+			date: 'Starting March 2020',
+			location: 'Pittsburgh, PA',
+			description: ''
+		},
+		{
 			title: 'Undergraduate Teaching Assistant',
 			company: 'Virginia Tech Department of Computer Science',
 			date: 'Aug - Dec 2019',
@@ -23,7 +30,7 @@ export class HomePage {
 		},
 		{
 			title: 'Software Engineering Intern',
-			company: 'Google, Inc.',
+			company: 'Google',
 			date: 'May - Aug 2019',
 			location: 'Sunnyvale, CA',
 			description: 'Worked on an internal metrics team to design and implement a revamped version of an existing feature from the ground up. Worked closely with a UX Developer and made use of Google\'s Angular Material components. Gained experience in Angular and Typescript.'
@@ -34,17 +41,17 @@ export class HomePage {
 			date: 'Aug - Nov 2018',
 			location: 'Blacksburg, VA',
 			description: 'Student Web Developer at Virginia Tech University Libraries IT Services. Worked on lib.vt.edu (CMS) and spec.lib.vt.edu (Jekyll) to update to the new Virginia Tech content design standards and improve readability for an overall better user experience.'
-		},
-		{
-			title: 'Engineering Practicum Intern (Year II)',
-			company: 'Google, Inc.',
-			date: 'May - Aug 2018',
-			location: 'Seattle, WA',
-			description: 'Worked on Android Messages for Web to design multiple new features including an updated sticker widget an an emoji autocorrect feature. Worked heavily with Javascript and an internal components framework. Also learned the basics of Angular towards the end of the of the internship.'
 		}
 	];
 
 	moreExperience = [
+		{
+			title: 'Engineering Practicum Intern (Year II)',
+			company: 'Google',
+			date: 'May - Aug 2018',
+			location: 'Seattle, WA',
+			description: 'Worked on Android Messages for Web to design multiple new features including an updated sticker widget an an emoji autocorrect feature. Worked heavily with Javascript and an internal components framework. Also learned the basics of Angular towards the end of the of the internship.'
+		},
 		{
 			title: 'Galipatia Living-Learning Community Mentor and Academic Committee Member',
 			company: 'Virginia Tech',
@@ -54,7 +61,7 @@ export class HomePage {
 		},
 		{
 			title: 'Engineering Practicum Intern (Year I)',
-			company: 'Google, Inc.',
+			company: 'Google',
 			date: 'May - Aug 2017',
 			location: 'Chicago, IL',
 			description: 'Worked with the Search UI Infrastructure team at Google Chicago in order to create an experiment that provided cache overflow analytics for a select percentage of users. By providing this information, different teams were then able to modify the amount of storage they use in the cache. Also, I learned how to interact with a large pre-existing codebase and modify it to fit our needs without making the system susceptible to damage.'
