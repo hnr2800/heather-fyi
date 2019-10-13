@@ -29,7 +29,7 @@ export class SocialPage {
 		},
 		{
 			title: 'Instagram (Art)',
-			link: 'https://www.instagram.com/watercolor.boi/',
+			link: 'https://www.instagram.com/virgo.stitch/',
 			img: 'assets/instagram.svg'
 		},
 		{
