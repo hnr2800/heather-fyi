@@ -19,12 +19,12 @@ export class SocialPage {
 		},
 		{
 			title: 'Twitter',
-			link: 'https://twitter.com/spookypoodles',
+			link: 'https://twitter.com/darkmodeheather',
 			img: 'assets/twitter.svg'
 		},
 		{
 			title: 'Instagram (Personal)',
-			link: 'https://www.instagram.com/spookypoodles/',
+			link: 'https://www.instagram.com/darkmodeheather/',
 			img: 'assets/instagram.svg'
 		},
 		{
